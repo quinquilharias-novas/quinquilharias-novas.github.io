@@ -7,8 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "core-js": "^3.6.4",
+    "core-js": "^3.6.5",
+    "muse-ui": "^3.0.2",
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "pug-plain-loader": "^1.0.0",
     "register-service-worker": "^1.7.1",
+    "typeface-news-cycle": "0.0.72",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6"
   },
